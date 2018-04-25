@@ -1,0 +1,12 @@
+{
+    "name": "agunbuhori/nahkoda",
+    "description": "Just a little typing to make an app with Laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Agun Buhori",
+            "email": "agun.buhori1@gmail.com"
+        }
+    ],
+    "require": {}
+}
